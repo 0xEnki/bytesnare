@@ -1,0 +1,54 @@
+2026-07-04 20:40:54 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:40:54 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:40:54 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:40:54 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:40:54 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:40:54 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:40:54 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 20:42:57 - [INFO] - All decoy listeners stopped
+2026-07-04 20:51:43 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:51:44 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:51:44 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:51:44 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:51:44 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:51:44 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:51:44 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 20:52:47 - [INFO] - All decoy listeners stopped
+2026-07-04 20:54:15 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:54:15 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:54:15 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:54:15 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:54:15 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 20:54:15 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:54:15 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:54:24 - [INFO] - All decoy listeners stopped
+2026-07-04 20:54:38 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:54:38 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:54:38 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:54:38 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:54:38 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:54:38 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:54:38 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 20:55:59 - [INFO] - All decoy listeners stopped
+2026-07-04 20:56:11 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:56:11 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:56:11 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:56:11 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:56:11 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:56:11 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:56:11 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 20:58:43 - [INFO] - All decoy listeners stopped
+2026-07-04 20:58:46 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 20:58:46 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 20:58:46 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 20:58:46 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 20:58:46 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 20:58:46 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 20:58:46 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]
+2026-07-04 22:11:08 - [INFO] - ShadowNet logger initialised (file=/home/haider/0xEnki_CyberLab/1/logs/shadownet.log, level=INFO)
+2026-07-04 22:11:08 - [INFO] - Honeyfile monitoring active for 2 asset(s): ['/home/haider/0xEnki_CyberLab/1/credentials.db', '/home/haider/0xEnki_CyberLab/1/network_config.json']
+2026-07-04 22:11:08 - [INFO] - Decoy listener started on tcp/22
+2026-07-04 22:11:08 - [INFO] - Decoy listener started on tcp/445
+2026-07-04 22:11:08 - [INFO] - Decoy listener started on tcp/80
+2026-07-04 22:11:08 - [INFO] - Decoy listener started on tcp/8080
+2026-07-04 22:11:08 - [INFO] - Decoy servers active on 4 port(s): [22, 80, 445, 8080]

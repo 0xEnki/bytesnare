@@ -1,0 +1,41 @@
+# ShadowNet Configuration
+# ------------------------
+# All values can be overridden at runtime via environment variables
+# with the SHADOWNET_ prefix (e.g. SHADOWNET_ROTATION_MINUTES=5).
+
+general:
+  # How often to rotate one decoy port (minutes).  Set to 0 to disable.
+  rotation_minutes: 10
+  # Prefix used for Windows firewall rule names.
+  firewall_rule_prefix: "ShadowNet_Block_"
+
+decoy_ports:
+  # List of TCP ports to open as decoy honeypots.
+  ports: [22, 80, 445, 8080]
+  # Optional custom banners per port.  If empty, built-in defaults are used.
+  banners:
+    #22:
+    #  - "SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6"
+    #80:
+    #  - "HTTP/1.1 200 OK\r\nServer: nginx/1.24.0\r\n\r\n<html><body>OK</body></html>"
+    {}
+
+honeyfiles:
+  # Set to false to disable honeyfile monitoring entirely.
+  enabled: true
+  # Paths to monitor (relative paths are resolved against the project root).
+  paths:
+    - "credentials.db"
+    - "network_config.json"
+
+geo:
+  # Free geo-IP API endpoint.  The {ip} placeholder is substituted.
+  api_url: "https://ipinfo.io/{ip}/json"
+  # HTTP request timeout in seconds.
+  timeout_seconds: 4.5
+
+logging:
+  # Log file path (relative or absolute).
+  file: "logs/shadownet.log"
+  # One of DEBUG, INFO, WARNING, ERROR, CRITICAL.
+  level: "INFO"
