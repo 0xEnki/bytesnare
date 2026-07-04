@@ -7,14 +7,6 @@
 ██████╔╝   ██║      ██║   ███████╗███████║██║ ╚████║██║  ██║██║  ██║███████╗
 ╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
-[![Kernel-Level Sniffing](https://img.shields.io/badge/Socket-Raw%20L2%2FL3-red.svg)]()
-[![Defense Architecture](https://img.shields.io/badge/Architecture-Asynchronous%20SIEM-orange.svg)]()
-[![Environment](https://img.shields.io/badge/Environment-Linux%20Kernel%205.x%2B-blue.svg)]()
-[![Security Policy](https://img.shields.io/badge/Policy-Strict%20Academic%20Audit-brightgreen.svg)]()
-
-**ByteSnare** is an advanced, high-performance Network Intrusion Detection System (NIDS) and adaptive cyber-defense engine. Operating at the raw socket layer, the system performs real-time Deep Packet Inspection (DPI), dynamic firewall state manipulation, and automated threat isolation through localized honey-services.
-
----
 
 
 [![Kernel-Level Sniffing](https://img.shields.io/badge/Socket-Raw%20L2%2FL3-red.svg)]()
